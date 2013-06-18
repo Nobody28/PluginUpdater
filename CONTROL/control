@@ -1,0 +1,8 @@
+Package: enigma2-plugin-extensions-pluginupdater
+Version: 0.1r2
+Description: Pluginupdater only for Plugins by Nobody28
+Section: misc
+Priority: optional
+Architecture: all
+Maintainer: Nobody28
+Source: 
